@@ -1,0 +1,10 @@
+C:\Users\L4G1\AppData\Local\Temporary Projects\Event Management System\bin\Debug\Event Management System.exe
+C:\Users\L4G1\AppData\Local\Temporary Projects\Event Management System\bin\Debug\Event Management System.pdb
+C:\Users\L4G1\AppData\Local\Temporary Projects\Event Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\L4G1\AppData\Local\Temporary Projects\Event Management System\obj\Debug\Event Management System.exe
+C:\Users\L4G1\AppData\Local\Temporary Projects\Event Management System\obj\Debug\Event Management System.pdb
+C:\Users\L4G1\Documents\Visual Studio 2008\Projects\Event Management System\Event Management System\bin\Debug\Event Management System.exe
+C:\Users\L4G1\Documents\Visual Studio 2008\Projects\Event Management System\Event Management System\bin\Debug\Event Management System.pdb
+C:\Users\L4G1\Documents\Visual Studio 2008\Projects\Event Management System\Event Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\L4G1\Documents\Visual Studio 2008\Projects\Event Management System\Event Management System\obj\Debug\Event Management System.exe
+C:\Users\L4G1\Documents\Visual Studio 2008\Projects\Event Management System\Event Management System\obj\Debug\Event Management System.pdb
