@@ -1,0 +1,5 @@
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\CheckoutApp\bin\Debug\CheckoutApp.exe.config
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\CheckoutApp\bin\Debug\CheckoutApp.exe
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\CheckoutApp\bin\Debug\CheckoutApp.pdb
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\CheckoutApp\obj\Debug\CheckoutApp.exe
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\CheckoutApp\obj\Debug\CheckoutApp.pdb

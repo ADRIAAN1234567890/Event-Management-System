@@ -1,0 +1,10 @@
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\bin\Debug\TESTING.exe.config
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\bin\Debug\TESTING.exe
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\bin\Debug\TESTING.pdb
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.csprojResolveAssemblyReference.cache
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.Form1.resources
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.Form2.resources
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.Properties.Resources.resources
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.csproj.GenerateResource.Cache
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.exe
+c:\users\ruite\documents\visual studio 2013\Projects\TESTING\TESTING\obj\Debug\TESTING.pdb

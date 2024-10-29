@@ -1,0 +1,6 @@
+c:\users\ruite\documents\visual studio 2013\Projects\ImageClick\ImageClick\bin\Debug\ImageClick.exe.config
+c:\users\ruite\documents\visual studio 2013\Projects\ImageClick\ImageClick\bin\Debug\ImageClick.exe
+c:\users\ruite\documents\visual studio 2013\Projects\ImageClick\ImageClick\bin\Debug\ImageClick.pdb
+c:\users\ruite\documents\visual studio 2013\Projects\ImageClick\ImageClick\obj\Debug\ImageClick.csprojResolveAssemblyReference.cache
+c:\users\ruite\documents\visual studio 2013\Projects\ImageClick\ImageClick\obj\Debug\ImageClick.exe
+c:\users\ruite\documents\visual studio 2013\Projects\ImageClick\ImageClick\obj\Debug\ImageClick.pdb

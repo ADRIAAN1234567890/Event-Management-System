@@ -1,0 +1,7 @@
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\bin\Debug\CheckoutApp.exe
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\bin\Debug\CheckoutApp.pdb
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\ruite\documents\visual studio 2013\Projects\CheckoutApp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
